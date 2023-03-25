@@ -74,6 +74,7 @@
 - [Kartik]
 - Ashish Chowdhary
 - [krikera] (https://github.com/krikera)
+- [saics] (https://github.com/saics)
 - Taufeeq Noamaan
 - [Micah Stackhouse] (https://github.com/mjstackhouse)
 - [Armandas Bruniusss](https://github.com/Armandas-b)
